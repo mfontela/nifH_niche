@@ -1,10 +1,10 @@
 # nifH_niche
-Code and data to reproduce the paper: "Puzzling out the ecological niche construction for nitrogen fixers in a coastal upwelling system" currently under review in ISME Communications (ISMECOMMUN-D-24-00445).
+Code and data to reproduce the paper: ["Puzzling out the ecological niche construction for nitrogen fixers in a coastal upwelling system"](https://doi.org/10.1093/ismeco/ycaf018) ISME Communications, 2025.
 
 The .R script runs and displays the information contained in the .RData file object.
 
 **Puzzling out the ecological niche construction for nitrogen fixers in a coastal upwelling system**  
-**Marcos Fontela¹**, Daniel Fernández Román², Esperanza Broullón³, Hanna Farnelid⁴, Ana Fernández Carrera⁵, Emilio Marañón², Sandra Martínez García², Tamara Rodríguez-Ramos⁶, Marta Varela⁶, Beatriz Mouriño²  
+**Marcos Fontela¹**, Daniel Fernández Román², Esperanza Broullón³, Hanna Farnelid⁴, Ana Fernández-Carrera⁵, Emilio Marañón², Sandra Martínez-García², Tamara Rodríguez-Ramos⁶, Marta M. Varela⁶, Beatriz Mouriño-Caraballido²  
 
 **Corresponding author:** [mfontela@iim.csic.es](mailto:mfontela@iim.csic.es)  
 
